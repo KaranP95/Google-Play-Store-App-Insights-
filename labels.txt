@@ -1,0 +1,52 @@
+
+This is notes for the column labels for the google play store dataset. Specifcally what do these columns mean and represent. 
+
+link to the dataset (Kaggle): https://www.kaggle.com/gauthamp10/google-playstore-apps
+
+App Name - name of the app
+
+App Id - package name
+
+Category - App category
+
+Rating - Avg rating (out of 5)
+
+Rating Count - # of ratings
+
+Installs - approx. install count
+
+Min Install - approx. minimum app install count
+
+Max Install - approx. maxiumum app install count
+
+Free - Free or paid app
+
+Price - price of the app 
+
+App Currency - currency of the app (mainly in USD)
+
+Size - size of application package (in MB)
+
+Minimum Andriod - minimum andriod version supported 
+
+Developer Id - Id in the google playstore
+
+Developer Website - webiste of deveolper
+
+Developer Email - email Id of developer 
+
+Released - launch date of the app on the playstore 
+
+Last updated - last app update date
+
+Content Rating - maturity level of the app 
+
+Privacy Policy - policy from the developer
+
+Ad Supported - Ad support in app
+
+In-App Purchase - Freemium model
+
+Editors Choice - Whether the app is rated as Editor Choice
+
+
